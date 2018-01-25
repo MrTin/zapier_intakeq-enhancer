@@ -1,0 +1,23 @@
+{
+  "name": "intakeq-zap-enhancer",
+  "version": "1.0.0",
+  "description": "Enhance intake data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "intakeq",
+    "zapier"
+  ],
+  "author": {
+    "name": "Martin Samami",
+    "url": "https://github.com/MrTin"
+  },
+  "repository": "github:MrTin/zapier_intakeq-enhancer",
+  "readme": "README.md",
+  "license": "WTFPL",
+  "devDependencies": {
+    "node-fetch": "^1.7.3"
+  }
+}
